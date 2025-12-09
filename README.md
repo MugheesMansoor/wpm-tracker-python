@@ -1,2 +1,3 @@
-# wpm-tracker-python
-Interactive Typing Speed Test in Terminal (Python + Curses)
+# Interactive Typing Speed Test in Terminal (Python + Curses)
+               This project is a beginner-friendly Typing Speed Test built entirely in Python using the powerful curses library. It runs directly in the Command Prompt and provides an interactive, real-time typing experience. The program displays randomly generated text, tracks user input, calculates Words Per Minute (WPM), and measures typing accuracy. With its clean terminal UI, responsive feedback, and curses-based keyboard handling, this project is an excellent introduction to Python, terminal applications, and performance-based user interaction.<img width="1076" height="644" alt="image" src="https://github.com/user-attachments/assets/a648011a-dc80-4f9d-bca5-07082a410d7c" />
+
