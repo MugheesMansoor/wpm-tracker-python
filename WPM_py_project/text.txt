@@ -1,0 +1,3 @@
+Hello this is a typing test Python curses project
+The quick brown fox jumps over the lazy dog.
+Sphinx of black quartz, judge my vow.
